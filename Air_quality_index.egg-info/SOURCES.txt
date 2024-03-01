@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+Air_quality_index.egg-info/PKG-INFO
+Air_quality_index.egg-info/SOURCES.txt
+Air_quality_index.egg-info/dependency_links.txt
+Air_quality_index.egg-info/top_level.txt
